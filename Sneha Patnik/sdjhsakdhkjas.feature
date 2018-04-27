@@ -1,6 +1,4 @@
-Background:   
-
-Scenario: 
+Scenario: hahaha
 Given we all are in the same room
 And we have our Projector working
 When we connect it our mac
